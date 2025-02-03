@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="94">
+    <author>westor</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>More Manure</en>
+		<de>Mehr Mist</de>
+		<fr>Plus De Fumier</fr>
+    </title>
+    <description>
+<en><![CDATA[
+More Manure is a mod that increase a husbandry manure production from your animals amount every game hour,
+in order to produce manure remember you have first to place straw inside.
+
+You can adjust the multiplier under Game Settings (Press ESC button) so you can
+increase or decrease the value in your desire. (default: 1.5 - min: 1.5 - max: 50)
+
+westor7 @ Discord for any suggestions/problems.
+
+NOTE: This mod does NOT working on multiplayer!
+]]>
+</en>
+<de>
+<![CDATA[
+More Manure ist ein Mod, der die Düngerproduktion Ihrer Tiere jede Spielstunde erhöht.
+Um Dünger zu produzieren, müssen Sie zuerst Stroh hineinlegen.
+
+Sie können den Multiplikator unter den Spieleinstellungen anpassen (ESC-Taste drücken), sodass Sie
+den Wert nach Wunsch erhöhen oder verringern können. (Standard: 1.5 – min.: 1.5 – max.: 50)
+
+westor7 @ Discord für alle Vorschläge/Probleme.
+
+HINWEIS: Dieser Mod funktioniert NICHT im Mehrspielermodus!
+]]>
+</de>
+<fr>
+<![CDATA[
+More Manure est un mod qui augmente la production de fumier d'élevage de vos animaux à chaque heure de jeu.
+Pour produire du fumier, n'oubliez pas que vous devez d'abord placer de la paille à l'intérieur.
+
+Vous pouvez ajuster le multiplicateur dans les paramètres du jeu (appuyez sur le bouton ESC) afin de pouvoir
+augmenter ou diminuer la valeur à votre guise. (par défaut: 1.5 - min: 1.5 - max: 50)
+
+westor7 @ Discord pour toute suggestion/problème.
+
+REMARQUE: ce mod ne fonctionne PAS en multijoueur!
+]]>
+</fr>
+    </description>
+
+    <iconFilename>icon_moreManure.dds</iconFilename>
+	
+    <multiplayer supported="true"/>
+	
+	<l10n filenamePrefix="translations/translation"/>
+	
+    <extraSourceFiles>
+		<sourceFile filename="scripts/lib/UIHelper.lua" />
+		<sourceFile filename="scripts/moreManureUI.lua" />
+		<sourceFile filename="scripts/moreManure.lua"/>
+    </extraSourceFiles>
+
+</modDesc>

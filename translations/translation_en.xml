@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+	<translationContributors/>
+	<texts>
+		<text name = "mm_setting_title" 		text = "More Manure - Settings"/>
+		<text name = "mm_Multiplier_short" 		text = "Manure Multiplier"/>
+		<text name = "mm_Multiplier_long" 		text = "Select your multiplier number, higher number gets more manure per game hour."/>
+		<text name = "mm_blink_warn"			text = "Warning: Manure production from animals multiplier has been updated."/>
+	</texts>
+</l10n>

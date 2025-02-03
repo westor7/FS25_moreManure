@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+	<translationContributors/>
+	<texts>
+		<text name = "mm_setting_title" 		text = "Plus De Fumier - Paramètres"/>
+		<text name = "mm_Multiplier_short" 		text = "Multiplicateur De Fumier"/>
+		<text name = "mm_Multiplier_long" 		text = "Sélectionnez votre numéro multiplicateur, un nombre plus élevé obtient plus de fumier par heure de jeu."/>
+		<text name = "mm_blink_warn"			text = "Avertissement: le multiplicateur de production de fumier animal a été mis à jour."/>
+	</texts>
+</l10n>
