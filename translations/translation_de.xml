@@ -2,9 +2,9 @@
 <l10n>
 	<translationContributors/>
 	<texts>
-		<text name = "mm_setting_title" 		text = "Mehr Mist - Einstellungen"/>
-		<text name = "mm_Multiplier_short" 		text = "Mistvervielfältiger"/>
-		<text name = "mm_Multiplier_long" 		text = "Wählen Sie Ihre Multiplikatorzahl, eine höhere Zahl bringt mehr Mist pro Spielstunde."/>
-		<text name = "mm_blink_warn"			text = "Achtung: Der Multiplikator für die Mistproduktion durch Tiere wurde aktualisiert."/>
+		<text name = "mma_setting_title" 		text = "Mehr Mist - Einstellungen"/>
+		<text name = "mma_Multiplier_short" 		text = "Mistvervielfältiger"/>
+		<text name = "mma_Multiplier_long" 		text = "Wählen Sie Ihre Multiplikatorzahl, eine höhere Zahl bringt mehr Mist pro Spielstunde."/>
+		<text name = "mma_blink_warn"			text = "Achtung: Der Multiplikator für die Mistproduktion durch Tiere wurde aktualisiert."/>
 	</texts>
 </l10n>
