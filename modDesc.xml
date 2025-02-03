@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <modDesc descVersion="94">
     <author>westor</author>
-    <version>1.0.0.0</version>
+    <version>1.0.0.1</version>
     <title>
         <en>More Manure</en>
-		<de>Mehr Mist</de>
-		<fr>Plus De Fumier</fr>
+	<de>Mehr Mist</de>
+	<fr>Plus De Fumier</fr>
     </title>
     <description>
 <en><![CDATA[
@@ -48,16 +48,16 @@ REMARQUE: ce mod ne fonctionne PAS en multijoueur!
 </fr>
     </description>
 
-    <iconFilename>icon_moreManure.dds</iconFilename>
+	<iconFilename>icon_moreManure.dds</iconFilename>
 	
-    <multiplayer supported="true"/>
+	<multiplayer supported="true"/>
 	
 	<l10n filenamePrefix="translations/translation"/>
 	
-    <extraSourceFiles>
+	<extraSourceFiles>
 		<sourceFile filename="scripts/lib/UIHelper.lua" />
 		<sourceFile filename="scripts/moreManureUI.lua" />
 		<sourceFile filename="scripts/moreManure.lua"/>
-    </extraSourceFiles>
+	</extraSourceFiles>
 
 </modDesc>
