@@ -2,7 +2,7 @@
 
 <h1><p align="center">More Manure for FS25</p></h1>
 
-This mod allows you to change in **Farming Simulator 2025 (FS25)** the liters that your farm with your animals produce per hour, this should work also with any animal that producing manure, also you have the opportunity to adjust the multiplier under game `General Settings` directly, just make sure that if you change any setting under the game settings menu then you have make a new save game to push the settings from the game into a file named `moreManure.xml` that is being created under `modSettings` in your `<drive>:\Documents\My Games\FarmingSimulator2025\` game folder.
+This mod allows you to change in **Farming Simulator 2025 (FS25)** the manure liters that your farm with your animals produce per hour, this should work also with any animal that producing manure, also you have the opportunity to adjust the multiplier under game `General Settings` directly, just make sure that if you change any setting under the game settings menu then you have make a new save game to push the settings from the game into a file named `moreManure.xml` that is being created under `modSettings` in your `<drive>:\Documents\My Games\FarmingSimulator2025\` game folder.
 <br></br>
 
 > [!CAUTION]
