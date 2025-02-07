@@ -2,9 +2,9 @@
 <l10n>
 	<translationContributors/>
 	<texts>
-		<text name = "mma_setting_title" 		text = "More Manure - Settings"/>
+		<text name = "mma_setting_title" 			text = "More Manure - Settings"/>
 		<text name = "mma_Multiplier_short" 		text = "Manure Produce Multiplier"/>
-		<text name = "mma_Multiplier_long" 		text = "Select your multiplier number, higher number gets more manure per game hour."/>
-		<text name = "mma_blink_warn"			text = "Warning: The manure production multiplier from animals has been updated."/>
+		<text name = "mma_Multiplier_long" 			text = "Select your multiplier number, higher number gets more manure per game hour."/>
+		<text name = "mma_blink_warn"				text = "Warning: The manure production multiplier from animals has been updated."/>
 	</texts>
 </l10n>

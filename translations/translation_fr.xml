@@ -2,9 +2,9 @@
 <l10n>
 	<translationContributors/>
 	<texts>
-		<text name = "mma_setting_title" 		text = "Plus De Fumier - Paramètres"/>
+		<text name = "mma_setting_title" 			text = "Plus De Fumier - Paramètres"/>
 		<text name = "mma_Multiplier_short" 		text = "Multiplicateur De Fumier"/>
-		<text name = "mma_Multiplier_long" 		text = "Sélectionnez votre numéro multiplicateur, un nombre plus élevé obtient plus de fumier par heure de jeu."/>
-		<text name = "mma_blink_warn"			text = "Avertissement: le multiplicateur de production de fumier animal a été mis à jour."/>
+		<text name = "mma_Multiplier_long" 			text = "Sélectionnez votre numéro multiplicateur, un nombre plus élevé obtient plus de fumier par heure de jeu."/>
+		<text name = "mma_blink_warn"				text = "Avertissement: le multiplicateur de production de fumier animal a été mis à jour."/>
 	</texts>
 </l10n>
