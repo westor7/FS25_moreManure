@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+	<translationContributors>Google translate</translationContributors>
+	<texts>
+		<text name = "mma_setting_title" 			text = "Meer Mest - Instellingen"/>
+		<text name = "mma_Multiplier_short" 		text = "Mestproductievermenigvuldiger"/>
+		<text name = "mma_Multiplier_long" 			text = "Selecteer uw vermenigvuldigingsnummer. Hoe hoger het nummer, hoe meer mest u per speeluur krijgt."/>
+		<text name = "mma_blink_warn"				text = "Waarschuwing: De vermenigvuldigingsfactor voor de mestproductie van dieren is bijgewerkt."/>
+	</texts>
+</l10n>

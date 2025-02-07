@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+	<translationContributors>Google translate</translationContributors>
+	<texts>
+		<text name = "mma_setting_title" 			text = "Más estiércol - Ajustes"/>
+		<text name = "mma_Multiplier_short" 		text = "Multiplicador de producción de estiércol"/>
+		<text name = "mma_Multiplier_long" 			text = "Selecciona tu número multiplicador, cuanto mayor sea el número, más estiércol obtendrás por hora de juego."/>
+		<text name = "mma_blink_warn"				text = "Advertencia: Se ha actualizado el multiplicador de producción de estiércol de los animales."/>
+	</texts>
+</l10n>

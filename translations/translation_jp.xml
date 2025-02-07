@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+	<translationContributors>Google translate</translationContributors>
+	<texts>
+		<text name = "mma_setting_title" 			text = "肥料を増やす - 設定"/>
+		<text name = "mma_Multiplier_short" 		text = "肥料生産乗数"/>
+		<text name = "mma_Multiplier_long" 			text = "乗数を選択してください。数値が高いほど、ゲーム時間あたりの肥料が多くなります。"/>
+		<text name = "mma_blink_warn"				text = "警告: 動物からの肥料生産乗数が更新されました。"/>
+	</texts>
+</l10n>

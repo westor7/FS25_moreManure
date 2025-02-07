@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+	<translationContributors>Google translate</translationContributors>
+	<texts>
+		<text name = "mma_setting_title" 			text = "Thêm phân bón - Cài đặt"/>
+		<text name = "mma_Multiplier_short" 		text = "Hệ số nhân sản lượng phân bón"/>
+		<text name = "mma_Multiplier_long" 			text = "Chọn số nhân của bạn, số càng cao thì càng nhận được nhiều phân hơn cho mỗi giờ chơi."/>
+		<text name = "mma_blink_warn"				text = "Cảnh báo: Hệ số sản xuất phân từ động vật đã được cập nhật."/>
+	</texts>
+</l10n>

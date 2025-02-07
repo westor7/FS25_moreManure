@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <l10n>
-	<translationContributors/>
+	<translationContributors>Google translate</translationContributors>
 	<texts>
 		<text name = "mma_setting_title" 			text = "Mehr Mist - Einstellungen"/>
 		<text name = "mma_Multiplier_short" 		text = "Mistvervielfältiger"/>

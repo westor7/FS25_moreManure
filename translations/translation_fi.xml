@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+	<translationContributors>Google translate</translationContributors>
+	<texts>
+		<text name = "mma_setting_title" 			text = "Lisää lantaa - Asetukset"/>
+		<text name = "mma_Multiplier_short" 		text = "Lannan tuotantokerroin"/>
+		<text name = "mma_Multiplier_long" 			text = "Valitse kerroinnumerosi, suurempi numero saa enemmän lantaa pelituntia kohden."/>
+		<text name = "mma_blink_warn"				text = "Varoitus: Eläinten lannantuotantokerroin on päivitetty."/>
+	</texts>
+</l10n>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+	<translationContributors>Google translate</translationContributors>
+	<texts>
+		<text name = "mma_setting_title" 			text = "Více hnoje - Nastavení"/>
+		<text name = "mma_Multiplier_short" 		text = "Multiplikátor produkce hnoje"/>
+		<text name = "mma_Multiplier_long" 			text = "Vyberte číslo násobitele, vyšší číslo dostane více hnoje za hodinu hry."/>
+		<text name = "mma_blink_warn"				text = "Upozornění: Byl aktualizován multiplikátor produkce hnoje ze zvířat."/>
+	</texts>
+</l10n>

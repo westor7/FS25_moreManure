@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+	<translationContributors>Google translate</translationContributors>
+	<texts>
+		<text name = "mma_setting_title" 			text = "További trágya - Beállítások"/>
+		<text name = "mma_Multiplier_short" 		text = "Trágyatermék-szorzó"/>
+		<text name = "mma_Multiplier_long" 			text = "Válassza ki a szorzószámot, nagyobb szám több trágyát kap játékóránként."/>
+		<text name = "mma_blink_warn"				text = "Figyelmeztetés: Az állatokból származó trágyatermelési szorzó frissítve lett."/>
+	</texts>
+</l10n>

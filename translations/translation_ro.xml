@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+	<translationContributors>Google translate</translationContributors>
+	<texts>
+		<text name = "mma_setting_title" 			text = "Mai mult gunoi de grajd - Setări"/>
+		<text name = "mma_Multiplier_short" 		text = "Multiplicator de gunoi de grajd"/>
+		<text name = "mma_Multiplier_long" 			text = "Selectați numărul multiplicatorului, numărul mai mare obține mai mult gunoi de grajd pe oră de joc."/>
+		<text name = "mma_blink_warn"				text = "Avertisment: multiplicatorul producției de gunoi de grajd de la animale a fost actualizat."/>
+	</texts>
+</l10n>

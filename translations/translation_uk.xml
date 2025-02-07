@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+	<translationContributors>Google translate</translationContributors>
+	<texts>
+		<text name = "mma_setting_title" 			text = "Більше гною - Налаштування"/>
+		<text name = "mma_Multiplier_short" 		text = "Мультиплікатор виробництва гною"/>
+		<text name = "mma_Multiplier_long" 			text = "Виберіть число множника, більше число отримує більше гною за годину гри."/>
+		<text name = "mma_blink_warn"				text = "Попередження: оновлено коефіцієнт виробництва гною від тварин."/>
+	</texts>
+</l10n>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+	<translationContributors>Google translate</translationContributors>
+	<texts>
+		<text name = "mma_setting_title" 			text = "Muioc'h a stern - Arventennoù"/>
+		<text name = "mma_Multiplier_short" 		text = "Lieskementer ar produioù teil"/>
+		<text name = "mma_Multiplier_long" 			text = "Dibabit ho niver lieskementer, an niver uheloc'h a resev muioc'h a teil dre eurvezh c'hoari."/>
+		<text name = "mma_blink_warn"				text = "Diwallit : hizivaet eo bet al lieskementer produiñ teil gant al loened."/>
+	</texts>
+</l10n>

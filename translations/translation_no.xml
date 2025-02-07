@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+	<translationContributors>Google translate</translationContributors>
+	<texts>
+		<text name = "mma_setting_title" 			text = "Mer Gjødsel - Innstillinger"/>
+		<text name = "mma_Multiplier_short" 		text = "Gjødselproduksjonsmultiplikator"/>
+		<text name = "mma_Multiplier_long" 			text = "Velg multiplikatornummeret ditt, høyere tall får mer gjødsel per spilletime."/>
+		<text name = "mma_blink_warn"				text = "Advarsel: Gjødselproduksjonsmultiplikatoren fra dyr er oppdatert."/>
+	</texts>
+</l10n>

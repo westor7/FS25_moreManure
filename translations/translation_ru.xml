@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+	<translationContributors>Google translate</translationContributors>
+	<texts>
+		<text name = "mma_setting_title" 			text = "Больше навоза - Настройки"/>
+		<text name = "mma_Multiplier_short" 		text = "Умножитель производства навоза"/>
+		<text name = "mma_Multiplier_long" 			text = "Выберите числовой множитель: чем больше число, тем больше навоза за час игры."/>
+		<text name = "mma_blink_warn"				text = "Внимание: множитель производства навоза от животных был обновлен."/>
+	</texts>
+</l10n>

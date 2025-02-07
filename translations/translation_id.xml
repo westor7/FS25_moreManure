@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+	<translationContributors>Google translate</translationContributors>
+	<texts>
+		<text name = "mma_setting_title" 			text = "Lebih Banyak Pupuk - Pengaturan"/>
+		<text name = "mma_Multiplier_short" 		text = "Pengganda Produksi Pupuk Kandang"/>
+		<text name = "mma_Multiplier_long" 			text = "Pilih angka pengali Anda, angka yang lebih tinggi akan menghasilkan lebih banyak pupuk per jam permainan."/>
+		<text name = "mma_blink_warn"				text = "Peringatan: Pengganda produksi pupuk kandang dari hewan telah diperbarui."/>
+	</texts>
+</l10n>

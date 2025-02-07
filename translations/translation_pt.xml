@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+	<translationContributors>Google translate</translationContributors>
+	<texts>
+		<text name = "mma_setting_title" 			text = "Więcej obornika - Ustawienia"/>
+		<text name = "mma_Multiplier_short" 		text = "Mnożnik produkcji obornika"/>
+		<text name = "mma_Multiplier_long" 			text = "Wybierz liczbę mnożnika, im wyższa liczba, tym więcej obornika na godzinę gry."/>
+		<text name = "mma_blink_warn"				text = "Ostrzeżenie: Zaktualizowano mnożnik produkcji obornika pochodzącego od zwierząt."/>
+	</texts>
+</l10n>

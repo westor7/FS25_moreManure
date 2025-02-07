@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+	<translationContributors>Google translate</translationContributors>
+	<texts>
+		<text name = "mma_setting_title" 			text = "Più letame - Impostazioni"/>
+		<text name = "mma_Multiplier_short" 		text = "Moltiplicatore di letame"/>
+		<text name = "mma_Multiplier_long" 			text = "Seleziona il numero del moltiplicatore: più alto è il numero, più letame si ottiene per ora di gioco."/>
+		<text name = "mma_blink_warn"				text = "Attenzione: il moltiplicatore della produzione di letame derivante dagli animali è stato aggiornato."/>
+	</texts>
+</l10n>
