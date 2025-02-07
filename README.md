@@ -28,6 +28,10 @@ This mod allows you to change in **Farming Simulator 2025 (FS25)** the manure li
 
 ## Full Changelog
 
+### 1.0.1.0
+- Added more languages.
+- Changed the base code into an better working way that now sets everything one time on map load instead of each game hour.
+- Updated some code parts.
 ### 1.0.0.0
 - First public release.
 
